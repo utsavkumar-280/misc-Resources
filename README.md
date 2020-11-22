@@ -1,2 +1,3 @@
 # misc-Resources
-[I'm an inline-style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
